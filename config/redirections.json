@@ -1,0 +1,7 @@
+[{
+	"route": "data",
+	"port": 8080
+}, {
+	"route": "mercutio",
+	"port": 8000
+}]
